@@ -1,0 +1,8 @@
+datasets --upgrade
+transformers --upgrade
+bitsandbytes
+accelerate
+jsonlines
+peft --upgrade
+trl --upgrade
+tensorboard
