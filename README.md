@@ -22,7 +22,13 @@ To set up the project on your local machine, follow these steps:
 
     >  pip install -r requirements.txt
 
+## Datasets Used
 
+1. [VoxPopuli](facebook/voxpopuli)
+2. [Common Voice](mozilla-foundation/common_voice_9_0)
+
+## Model Used
+Gemma-2b
 
 ## Project Files
 
