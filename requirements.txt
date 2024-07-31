@@ -6,3 +6,6 @@ jsonlines
 peft --upgrade
 trl --upgrade
 tensorboard
+matplotlib
+numpy
+pandas
