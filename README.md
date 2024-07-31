@@ -24,8 +24,8 @@ To set up the project on your local machine, follow these steps:
 
 ## Datasets Used
 
-1. [VoxPopuli](https://huggingface.co/datasets/esb/datasets)
-2. [Common Voice](https://huggingface.co/datasets/esb/datasets)
+1. [VoxPopuli](https://huggingface.co/datasets/facebook/voxpopuli)
+2. [Common Voice](https://huggingface.co/datasets/mozilla-foundation/common_voice_9_0)
 
 ## Model Used
 Gemma-2b
